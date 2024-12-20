@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+padding:0;
+margin: 0;
+box-sizing: border-box;
+font-family: "Inter", sans-serif;
+}
+.cust-font-color{
+    color: #2E1562 !important;
+    font-weight: 700;
+}
+
+.cust-btn{
+    border-color: #2E1562;
+    background-color: #2E1562;
+}
+.cust-btn-2{
+    border-width: 2px;
+    border-color: #2E1562;
+    color: #2E1562;       
+    font-weight: 700; 
+}
+
+.cust-btn:hover{
+    border-color: #2E1562 !important;
+    background-color: #572fac !important;
+}
+
+.cust-btn-2:hover{
+    border-width: 2px;
+    border-color: #673dc2;
+    color: #673dc2;   
+    background-color: #fff !important;    
+}
+
+.spaced-nav{
+    margin-right: 15px !important;
+}
+
+.gray-font{
+    color: #73737D;
+    font-weight: 600;
+}
+
+.grayy{
+    color: #7E7F88;
+    font-weight: 600;
+}
+
+.purple-font{
+    color: #7B61FF;
+    font-weight: bold;
+}
+
+.cust-bg{
+    background-image: url(../images/section3.png) !important;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+.copy-text{
+    font-size: 12px !important;
+    display: flex !important;
+    align-items: center !important;
+    margin: 0;
+}
+
+.span-text{
+    font-weight: bold;
+    color: black;
+    font-size: 1.5rem !important;
+    vertical-align: middle !important;
+}
+
+.cust-button{
+    width: 100%;
+    height: 50px;
+    margin-top: 1px;
+    margin-right: 7px;
+    position: relative;
+    right: 1px;
+}
+
+.cust-input{
+    background: transparent;
+    border: 0;
+    height: 54px;
+}
+
+.sub-box{
+    background: #fff;
+    border: 1px solid #CED0D1;
+    height: 54px;
+    border-radius: 6px;
+}
+
+.cust-line-height{
+    line-height: 1.8;
+}
+
+.small-img{
+   width:auto;
+}
+
+.form-check-input:checked {
+    background-color: #2E1562;
+    border-color: #2E1562;
+    border-width: 8px;
+}
+
+.form-font-color{
+    color: #1C1B37 !important;
+    font-weight: bold;  
+}
+
+.round-input-box{
+    border-radius: 25px;
+    height: 50px;
+}
+
+.cust-small-text{
+    color:#424453; 
+    font-size: small;
+    font-weight: 600;
+}
+
+ 
+
